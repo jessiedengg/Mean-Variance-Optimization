@@ -1,4 +1,4 @@
-# Mega-Cap Index Optimization & Crisis Stress-Testing
+# Mean-Variance Portfolio Optimization & Crisis Stress-Testing
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Data](https://img.shields.io/badge/Data-WRDS%20%2F%20CRSP-orange.svg)
