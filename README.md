@@ -76,4 +76,5 @@ This project investigates market concentration by evaluating the **15 largest U.
 └── requirements.txt                      # Python dependencies
 
 ---
+
 The source code of this project is not publicly released. If you would like to see the source code, please reach me at jessie.deng@uwaterloo.ca.
