@@ -63,9 +63,9 @@ This project investigates market concentration by evaluating the **15 largest U.
 
 ```text
 ├── data/
-│   └── clean/
-│       ├── monthly_stock_clean.parquet     # Compounded monthly stock returns
-│       └── monthly_market_cap.parquet    # Market cap data from WRDS
+│   ├── monthly_stock_clean.parquet       # Compounded monthly stock returns
+│   └── monthly_market_cap.parquet        # Market cap data from WRDS
+│   └── company_names.csv                 # Company Names
 ├── notebooks/
 │   └── portfolio_optimization.ipynb      # Main execution notebook
 ├── outputs/
